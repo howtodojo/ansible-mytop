@@ -1,0 +1,4 @@
+---
+# vars file for ansible-mytop
+mytop_packages:
+  - mytop
